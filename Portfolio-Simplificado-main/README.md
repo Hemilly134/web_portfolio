@@ -41,13 +41,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Portfolio é uma aplicação que serve como um currículo virtual, foi desenvolvido no Bootstrap pages e bastante modificado em sua estrutura por Juan Ibanez💜
+O Portfolio é uma aplicação que serve como um currículo virtual, foi desenvolvido no Bootstrap pages.💜
 
 ## 🔖 Layout
-
-Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
-
-- [Layout Web](https://www.figma.com/file/C6sICQWMCv6UAjtnB1NEwa/Projeto-portfolio?node-id=0%3A1)
 
 ## 📝 Licença
 
@@ -57,15 +53,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ## 🔗 Links
 
-O projeto está disponível em: [portfolio | Juan Ibanez](https://ibanez-juan.github.io/Portfolio-Simplificado/) para visualizar.
-
-Baixe o projeto original em: [bootstrapmade](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/) versão gratuita ou paga.
-
-Feito com ♥ by Juan Ibanez!
+Feito com ♥ by Hemilly Monara!
 
 <!-- Próximos passos: 
  - Ajutar as imagens e scripts para que o carregemento seja mais rápido;
- - Ajutar os recursos mobiles do site buscando um melhor tempo de carregamento dos recursos do site;
- - Retirar cod. não usados;
  - Adicionar um tratamento de erros para o formulário de contato. 
 -->
